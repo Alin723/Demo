@@ -3,4 +3,5 @@
     <string name="play">视频播放</string>
     <string name="start_play">start</string>
     <string name="play_introduce">this is video introduciton ......</string>
+    <string name="test">测试</string>
 </resources>
